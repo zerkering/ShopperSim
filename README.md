@@ -1,5 +1,5 @@
 # ShopperSim
-A simulation tool to simulate customer behavior in retail store
+A simulation tool to simulate customer behavior in retail store using Sorenson 2017 et. al. parameter
 ## Installation
 Bigsimr is a library used in Julia. You cannot directly use it in Python. ref: https://pypi.org/project/bigsimr/
 You have to install Julia and specify Julia's Path in Terminal first unless otherwises will error. 
@@ -19,10 +19,19 @@ Also, libraries needed to be installed
 
 ```sh
 pip install simpy
-pip install simpy
 pip install git+https://github.com/SchisslerGroup/python-bigsimr.git
 pip install ipywidgets
 pip install ipython
 jupyter nbextension enable --py widgetsnbextension --sys-prefix
 ```
+## Usage
+Usage with Python IDE, i.e. Jupyter Notebook
+```
+from shopper_sim import create_widget
+create_widget()
+
+```
+
+
+
 
