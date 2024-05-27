@@ -23,6 +23,9 @@ pip install git+https://github.com/SchisslerGroup/python-bigsimr.git
 pip install ipywidgets
 pip install ipython
 jupyter nbextension enable --py widgetsnbextension --sys-prefix
+
+from bigsimr import setup
+setup(compiled_modules=False)
 ```
 ## Usage
 Usage with Python IDE, i.e. Jupyter Notebook
