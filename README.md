@@ -27,10 +27,15 @@ jupyter nbextension enable --py widgetsnbextension --sys-prefix
 ## Usage
 Usage with Python IDE, i.e. Jupyter Notebook
 ```
-from shopper_sim import create_widget
-create_widget()
+from shopper_sim import run_shoppersim
+run_shoppersim()
 
 ```
+
+## Result
+statistics_result.xlsx will automatically upload to the path where .py file is kept
+
+
 
 
 
