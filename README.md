@@ -1,7 +1,7 @@
 # ShopperSim
 A simulation tool to simulate customer behavior in retail store using Sorenson 2017 et. al. parameter
 ## Installation
-**Preparation: **
+**Preparation:**
 Bigsimr is a library used in Julia. You cannot directly use it in Python. ref: https://pypi.org/project/bigsimr/
 You have to install Julia and specify Julia's Path in Terminal first unless otherwises will error. 
 To specify path, open your terminal and type: 
