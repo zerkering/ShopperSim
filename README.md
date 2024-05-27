@@ -15,3 +15,14 @@ Note: This depends on your Julia version
 
 ref: https://stackoverflow.com/questions/62905587/julia-command-not-found-even-after-adding-to-path
 
+Also, libraries needed to be installed
+
+```sh
+pip install simpy
+pip install simpy
+pip install git+https://github.com/SchisslerGroup/python-bigsimr.git
+pip install ipywidgets
+pip install ipython
+jupyter nbextension enable --py widgetsnbextension --sys-prefix
+```
+
