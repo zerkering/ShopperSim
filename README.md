@@ -41,7 +41,7 @@ run_shoppersim()
 statistics_result.xlsx will automatically upload to the path where .py file is kept\
 **UI interface**\
 \
-<img width="320" alt="image" src="https://github.com/zerkering/ShopperSim/assets/129678610/49795485-0029-4b16-8a6f-2d1ce39a82bc">
+<img width="465" alt="image" src="https://github.com/zerkering/ShopperSim/assets/129678610/8c6f1f6f-a14a-49ef-9388-8f05bddea54a">
 
 **Result Presentation**\
 \
