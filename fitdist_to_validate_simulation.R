@@ -1,3 +1,5 @@
+#This file is used to validate ShopperSim Simulation
+
 library(fitdistrplus)
 library(readxl)
 library(logitnorm)
